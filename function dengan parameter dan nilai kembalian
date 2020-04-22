@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+// tugas dirumah 22/04/2020
+// membuat fuction dengan parameter dan nilai kembalian
+
+int pengurangan ( int c, int u ){
+	return c - u;
+	
+}
+
+int main (){
+	cout << pengurangan (100, 50 );
+	
+}
