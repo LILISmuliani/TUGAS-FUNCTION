@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+// tugas dirumah 22/04/2020
+// membuat fuction tanpa parameter tanpa nilai kembalian
+
+void function (){
+
+	cout << endl;
+	cout << " Function tanpa parameter tanpa nilai kembalian ";
+	cout << endl;
+}
+
+int main (){
+	function ();
+	
+}
