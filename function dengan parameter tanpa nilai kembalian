@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+// tugas di rumah 22/04/2020
+// membuat program function parameter tanpa nilai kembalian
+void perkalian ( int l, int m ){
+	cout << ( l * m );
+
+}
+
+int main (){
+	perkalian ( 30, 10 );
+	
+}
