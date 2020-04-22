@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+// tugas dirumah 22/04/2020
+// membuat fuction tanpa parameter tetapi dengan nilai kembalian
+
+int fungsi (){
+		int r = 20, o = 20;
+		return r * o;
+
+}
+
+int main (){
+	cout << fungsi ();
+	
+}
